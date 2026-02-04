@@ -1,0 +1,4 @@
+g++ -E -P main.cpp
+
+-P - rozwija preprocesor
+-E - sam preprocesor 
