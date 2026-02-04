@@ -9,4 +9,4 @@ Po pokazówce pokazywało mu się realizację animacji Move oraz wielowątkowo�
 i żeby było dokładnie trzeba dodać wpływ tego kawałka co został już po pętli. Poza tym jest sikalafą.
 
 ## Serwer graficzny
-Stworzony przez Pana Prowadzącego, mój wkład to jedynie kartoteka projekt_ms.
+Stworzony przez Pana Prowadzącego, mój wkład to jedynie kartoteka projekt. W kartotece package-interp4cmds-2libs jest cały etap 5, czyli tworzenie pliku wykonywalnego za pomocą autotools.
